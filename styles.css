@@ -1,5 +1,18 @@
 
 /* Your CSS Code here. */
+.box{
+	width:100px;
+	height:100px;
+}
+.item-1{
+	background-color:red;
+}
+.item-2{
+	background-color:blue;
+}
+.item-3{
+	background-color:green;
+}
 .holder{
 	display:flex;
 	flex-direction:row;
